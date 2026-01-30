@@ -1,0 +1,9 @@
+To activate virtual environment
+D:\ML_Projects\Car_Price_Predictor>
+myenv\Scripts\activate
+
+To run project
+(myenv) D:\ML_Projects\Car_Price_Predictor>
+python app.py
+
+http://127.0.0.1:5000/

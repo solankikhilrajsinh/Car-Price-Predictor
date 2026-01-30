@@ -26,6 +26,7 @@ The system is trained on the Quikr Car Dataset, which includes important attribu
 - Year
 - Kms Driven
 - Fuel Type
+  
 These features are processed and used to train the Linear Regression model for price prediction.
 
 
